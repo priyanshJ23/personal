@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/personal/static/css/main.c5fdee53.css",
+    "main.js": "/personal/static/js/main.405a9e95.js",
+    "static/js/964.bd00fc27.chunk.js": "/personal/static/js/964.bd00fc27.chunk.js",
+    "static/js/117.d66c9d09.chunk.js": "/personal/static/js/117.d66c9d09.chunk.js",
+    "static/js/478.ca5f8fcb.chunk.js": "/personal/static/js/478.ca5f8fcb.chunk.js",
+    "static/js/922.34b7bf58.chunk.js": "/personal/static/js/922.34b7bf58.chunk.js",
+    "static/js/233.8b9cf18c.chunk.js": "/personal/static/js/233.8b9cf18c.chunk.js",
+    "static/js/412.4418a142.chunk.js": "/personal/static/js/412.4418a142.chunk.js",
+    "static/js/209.24177e9b.chunk.js": "/personal/static/js/209.24177e9b.chunk.js",
+    "static/js/625.b79943e9.chunk.js": "/personal/static/js/625.b79943e9.chunk.js",
+    "static/js/745.520d1aad.chunk.js": "/personal/static/js/745.520d1aad.chunk.js",
+    "static/media/dsa.png": "/personal/static/media/dsa.f1b6081044065df60791.png",
+    "static/media/1234.png": "/personal/static/media/1234.c0188002378b8c31bf17.png",
+    "static/media/fooddeliveryinsoutheastasia.jpg": "/personal/static/media/fooddeliveryinsoutheastasia.e45f9cee86ff2570f1fe.jpg",
+    "index.html": "/personal/index.html",
+    "static/media/about.md": "/personal/static/media/about.a0e9a4e5a0e4474ca231.md",
+    "main.c5fdee53.css.map": "/personal/static/css/main.c5fdee53.css.map",
+    "main.405a9e95.js.map": "/personal/static/js/main.405a9e95.js.map",
+    "964.bd00fc27.chunk.js.map": "/personal/static/js/964.bd00fc27.chunk.js.map",
+    "117.d66c9d09.chunk.js.map": "/personal/static/js/117.d66c9d09.chunk.js.map",
+    "478.ca5f8fcb.chunk.js.map": "/personal/static/js/478.ca5f8fcb.chunk.js.map",
+    "922.34b7bf58.chunk.js.map": "/personal/static/js/922.34b7bf58.chunk.js.map",
+    "233.8b9cf18c.chunk.js.map": "/personal/static/js/233.8b9cf18c.chunk.js.map",
+    "412.4418a142.chunk.js.map": "/personal/static/js/412.4418a142.chunk.js.map",
+    "209.24177e9b.chunk.js.map": "/personal/static/js/209.24177e9b.chunk.js.map",
+    "745.520d1aad.chunk.js.map": "/personal/static/js/745.520d1aad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5fdee53.css",
+    "static/js/main.405a9e95.js"
+  ]
+}

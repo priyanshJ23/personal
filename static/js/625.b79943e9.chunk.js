@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkme=self.webpackChunkme||[]).push([[625],{9625:function(e,a,s){e.exports=s.p+"static/media/about.a0e9a4e5a0e4474ca231.md"}}]);
